@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HireMe</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="landing_headline">Discover Your Dream Career</string>
+    <string name="landing_tagline">Connecting top talent with leading companies worldwide. Your next big opportunity starts here.</string>
+    <string name="get_started">Get Started</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+</resources>

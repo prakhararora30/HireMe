@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background & Surface Colors -->
+    <color name="midnight_dark">#140A26</color>
+    <color name="midnight_background">#1C1138</color>
+    <color name="midnight_card">#26184A</color>
+    <color name="midnight_border">#3B2666</color>
+
+    <!-- Magenta & Plum Primary Palette -->
+    <color name="magenta_primary">#B84795</color>
+    <color name="magenta_light">#D456A8</color>
+    <color name="magenta_mid">#9C387D</color>
+    <color name="plum_dark">#832768</color>
+    <color name="plum_deep">#5E1B4B</color>
+
+    <!-- Accent, Subtext & Text -->
+    <color name="rose_accent">#E778C5</color>
+    <color name="lavender_subtext">#B5A5CE</color>
+    <color name="lavender_muted">#8E7FA8</color>
+    <color name="white">#FFFFFF</color>
+</resources>

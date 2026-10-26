@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Apple black logo -->
+    <path
+        android:pathData="M17.05,20.28c-0.98,0.95 -2.05,0.8 -3.08,0.35c-1.09,-0.46 -2.09,-0.48 -3.24,0c-1.44,0.62 -2.2,0.44 -3.06,-0.35C3.79,16.17 4.36,9.68 8.89,9.43c1.25,0.07 2.12,0.69 2.87,0.74c1.1,-0.22 2.15,-0.86 3.33,-0.78c1.41,0.11 2.48,0.67 3.17,1.65c-2.89,1.73 -2.21,5.52 0.44,6.58c-0.52,1.37 -1.19,2.72 -1.65,2.66zM12.03,9.36C11.88,7.15 13.69,5.33 15.77,5.16c0.29,2.54 -2.31,4.44 -3.74,4.2z"
+        android:fillColor="#000000"/>
+</vector>

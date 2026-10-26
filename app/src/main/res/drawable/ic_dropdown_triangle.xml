@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="10dp"
+    android:height="7dp"
+    android:viewportWidth="10"
+    android:viewportHeight="7">
+    <!-- Solid downward triangle -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M1,1 L9,1 C9.5,1 9.8,1.6 9.4,2.0 L5.4,6.5 C5.2,6.8 4.8,6.8 4.6,6.5 L0.6,2.0 C0.2,1.6 0.5,1 1,1 Z"/>
+</vector>

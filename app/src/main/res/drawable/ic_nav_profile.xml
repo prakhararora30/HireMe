@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Instagram style circular profile avatar icon -->
+    <!-- Outer circle border -->
+    <path
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10 10,-4.48 10,-10S17.52,2 12,2z M12,20.2c-4.52,0 -8.2,-3.68 -8.2,-8.2S7.48,3.8 12,3.8s8.2,3.68 8.2,8.2 -3.68,8.2 -8.2,8.2z"
+        android:fillColor="#5C1380"/>
+    <!-- Head -->
+    <path
+        android:pathData="M12,6.5c1.52,0 2.75,1.23 2.75,2.75s-1.23,2.75 -2.75,2.75 -2.75,-1.23 -2.75,-2.75 1.23,-2.75 2.75,-2.75z"
+        android:fillColor="#5C1380"/>
+    <!-- Shoulders -->
+    <path
+        android:pathData="M12,13.5c-2.8,0 -5.5,1.4 -6.2,3.4 1.7,2 4,3.1 6.2,3.1 2.2,0 4.5,-1.1 6.2,-3.1 -0.7,-2 -3.4,-3.4 -6.2,-3.4z"
+        android:fillColor="#5C1380"/>
+</vector>

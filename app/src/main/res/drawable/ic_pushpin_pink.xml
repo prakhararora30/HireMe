@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp"
+    android:height="18dp"
+    android:viewportWidth="16"
+    android:viewportHeight="18">
+    <!-- Pin stem needle -->
+    <path
+        android:pathData="M8,10.5 L8,17.2"
+        android:strokeWidth="1.8"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round"/>
+    <!-- Circular spherical head -->
+    <path
+        android:pathData="M8,1 C4.96,1 2.5,3.46 2.5,6.5 C2.5,9.54 4.96,12 8,12 C11.04,12 13.5,9.54 13.5,6.5 C13.5,3.46 11.04,1 8,1 Z"
+        android:fillColor="#E11D48"/>
+    <!-- Specular highlight shine dot on top-left -->
+    <path
+        android:pathData="M6.2,3.6 C5.4,3.6 4.8,4.2 4.8,5 C4.8,5.4 5.2,5.4 5.4,5.1 C5.7,4.7 6.2,4.4 6.7,4.6 C7,4.7 7.1,4.4 6.9,4.2 C6.7,3.8 6.4,3.6 6.2,3.6 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9"/>
+    <path
+        android:pathData="M6.2,4.5 C5.6,4.5 5.2,4.9 5.2,5.5 C5.2,6.1 5.6,6.5 6.2,6.5 C6.8,6.5 7.2,6.1 7.2,5.5 C7.2,4.9 6.8,4.5 6.2,4.5 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.75"/>
+</vector>
